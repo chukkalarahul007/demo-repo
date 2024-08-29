@@ -1,4 +1,5 @@
 ## DEMO
-This is a readme file
-Adding line number 2
+This is an readme file.
+/b with expension .md
+
 Adding another line to the file
